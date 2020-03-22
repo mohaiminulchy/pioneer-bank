@@ -1,0 +1,39 @@
+body{
+    padding: 100px;
+
+}
+
+
+#trans{
+    display: none;
+}
+.sector{
+    margin-left: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    
+}
+.sector h1{
+    margin-top: 30px;
+    font-size: 80px;
+}
+.deposit{
+    background-color: slateblue;
+    margin-right: 50px;
+    
+}
+.withdraw{
+    background-color: lightsalmon;
+    margin-right: 50px;
+}
+.balance{
+    background-color: orange;
+    height: 200px;
+}
+.submit{
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
